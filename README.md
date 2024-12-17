@@ -7,6 +7,8 @@ This lets Claude remember information about the user across chats.
 > [!NOTE]
 > This is a fork of the original [Memory Server](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) and is intended to not use the ephemeral memory npx installation method.
 
+<a href="https://glama.ai/mcp/servers/zn6gf7sxjs"><img width="380" height="200" src="https://glama.ai/mcp/servers/zn6gf7sxjs/badge" alt="mcp-knowledge-graph MCP server" /></a>
+
 ## Server Name
 
 ```txt
